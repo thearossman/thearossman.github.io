@@ -17,27 +17,27 @@ I am broadly interested in building practical systems that help operators, resea
 <small><sup>&dagger;</sup>Indicates mentee</small>
 
 
-**Iris: Expressive Traffic Analysis for the Modern Internet**
-*Thea Rossman*, Diana Qing<sup>&dagger;</sup>, Gerry Wan, Zakir Durumeric
-USENIX Symposium on Networked Systems Design and Implementation (NSDI) 2026
-*To appear*
+**Iris: Expressive Traffic Analysis for the Modern Internet**<br>
+*Thea Rossman*, Diana Qing<sup>&dagger;</sup>, Gerry Wan, Zakir Durumeric<br>
+USENIX Symposium on Networked Systems Design and Implementation (NSDI) 2026<br>
+*To appear*<br>
 
-[**Internet Connection-Splitting: What’s Old is New Again**](https://www.usenix.org/conference/atc25/presentation/yuan)
-Gina Yuan, *Thea Rossman*, Keith Winstein
-USENIX Annual Technical Conference (ATC) 2025
+[**Internet Connection-Splitting: What’s Old is New Again**](https://www.usenix.org/conference/atc25/presentation/yuan)<br>
+Gina Yuan, *Thea Rossman*, Keith Winstein<br>
+USENIX Annual Technical Conference (ATC) 2025<br>
 
-[**Tighten Rust’s Belt: Shrinking Embedded Rust Binaries**](https://dl.acm.org/doi/10.1145/3519941.3535075)
-Hudson Ayers, Evan Laufer, Paul Mure, Jaehyeon Park, Eduardo Rodelo, *Thea Rossman*, Andrey Pronin, Philip Levis, Johnathan Van Why
-Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES) 2022
+[**Tighten Rust’s Belt: Shrinking Embedded Rust Binaries**](https://dl.acm.org/doi/10.1145/3519941.3535075)<br>
+Hudson Ayers, Evan Laufer, Paul Mure, Jaehyeon Park, Eduardo Rodelo, *Thea Rossman*, Andrey Pronin, Philip Levis, Johnathan Van Why<br>
+Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES) 2022<br>
 
 ### Works In Progress
 
-**In-Network Retransmissions for Encrypted Transport Protocols**
-Gina Yuan<sup>\*</sup>, *Thea Rossman*<sup>\*</sup>, Keith Winstein
-In submission
+**In-Network Retransmissions for Encrypted Transport Protocols**<br>
+Gina Yuan<sup>\*</sup>, *Thea Rossman*<sup>\*</sup>, Keith Winstein<br>
+In submission<br>
 
-**\[Patent\] Health-Aware Packet Forwarding**
-Patent pending (Broadcom Inc.)
+**\[Patent\] Health-Aware Packet Forwarding**<br>
+Patent pending (Broadcom Inc.)<br>
 
 
 ## Teaching <a id="teaching"></a>
