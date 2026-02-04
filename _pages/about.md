@@ -48,17 +48,17 @@ Primary Instructor (*Stanford University*):
 Teaching Assistant (*Stanford University*):
 * [CS155: Computer and Network Security](https://cs155.stanford.edu), Spring 2022
 * [CS144: Computer and Network Security](https://cs144.github.io), Fall 2021
-* [CS110: Principles of Computer Systems](https://web.stanford.edu/class/cs110/), Winter-Summer 2021
+* [CS110: Principles of Computer Systems](https://web.stanford.edu/class/cs110/), Winter--Summer 2021
 
 Section Leader (*Stanford University*):
-* [CS106A: Programming Methodology](https://web.stanford.edu/class/cs106a/), Spring-Summer 2020
+* [CS106A: Programming Methodology](https://web.stanford.edu/class/cs106a/), Spring--Summer 2020
 * [CS106B: Programming Abstractions](https://web.stanford.edu/class/cs106b/), Fall 2020
 
 ### Research Mentoring
 
 <small><sup>\*</sup>Published or working toward publication as part of independent study.</small>
 
-* Thomas Haile<sup>\*</sup>, Spring 2024-: practical packet-splitting for processing ciphertext at high speeds.
-* Aliya Alsafa<sup>\*</sup>, Spring 2024-: runtime drop rules for hardware traffic reduction.
-* Diana Qing<sup>\*</sup>, Fall 2024-Spring 2025: performance evaluation and engineering for *Iris: Expressive Traffic Analysis for the Modern Internet*.
-* Hannah Kim, Fall 2024: systematize discussions of risk, privacy, and ethics in passive traffic analysis literature.
+* Thomas Haile<sup>\*</sup>, Spring 2024--: practical packet-splitting for processing ciphertext at high speeds.
+* Aliya Alsafa<sup>\*</sup>, Spring 2024--: runtime drop rules for hardware traffic reduction.
+* Diana Qing<sup>\*</sup>, Fall 2024--Spring 2025: performance evaluation and engineering for *Iris: Expressive Traffic Analysis for the Modern Internet*.
+* Hannah Kim, Fall 2024: descriptions of risk, privacy, and ethics in passive traffic analysis literature.
