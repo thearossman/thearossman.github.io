@@ -30,7 +30,7 @@ USENIX Annual Technical Conference (ATC) 2025<br>
 Hudson Ayers, Evan Laufer, Paul Mure, Jaehyeon Park, Eduardo Rodelo, *Thea Rossman*, Andrey Pronin, Philip Levis, Johnathan Van Why<br>
 Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES) 2022<br>
 
-### Works In Progress
+### *Works In Progress*
 
 **In-Network Retransmissions for Encrypted Transport Protocols**<br>
 Gina Yuan<sup>\*</sup>, *Thea Rossman*<sup>\*</sup>, Keith Winstein<br>
