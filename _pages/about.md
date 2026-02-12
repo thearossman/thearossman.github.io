@@ -36,6 +36,10 @@ Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES) 2022<
 Gina Yuan<sup>\*</sup>, *Thea Rossman*<sup>\*</sup>, Keith Winstein<br>
 In submission<br>
 
+**KaleidoLens: A Differential Private Framework for High-Speed Passive Network Measurements**<br>
+Alessandro Maggi, *Thea Rossman*, Nikita Tyunyayev, Tom Barbette<br>
+In submission<br>
+
 **\[Patent\] Health-Aware Packet Forwarding**<br>
 Patent pending (Broadcom Inc.)<br>
 
