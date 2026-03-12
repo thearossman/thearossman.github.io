@@ -17,10 +17,9 @@ I am broadly interested in building practical systems that help operators, resea
 <small><sup>&dagger;</sup>Indicates mentee</small>
 
 
-**Iris: Expressive Traffic Analysis for the Modern Internet**<br>
+[**Iris: Expressive Traffic Analysis for the Modern Internet**](../files/iris.pdf)<br>
 *Thea Rossman*, Diana Qing<sup>&dagger;</sup>, Gerry Wan, Zakir Durumeric<br>
 USENIX Symposium on Networked Systems Design and Implementation (NSDI) 2026<br>
-*To appear*<br>
 
 [**Internet Connection-Splitting: What’s Old is New Again**](https://www.usenix.org/conference/atc25/presentation/yuan)<br>
 Gina Yuan, *Thea Rossman*, Keith Winstein<br>
