@@ -33,7 +33,7 @@ Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES) 2022<
 
 **In-Network Retransmissions for Encrypted Transport Protocols**<br>
 Gina Yuan<sup>\*</sup>, *Thea Rossman*<sup>\*</sup>, Keith Winstein<br>
-In submission<br>
+Conference on Emerging Networking EXperiments and Technologies (CoNEXT) 2026 (*To Appear*)<br>
 
 **KaleidoLens: A Differential Private Framework for High-Speed Passive Network Measurements**<br>
 Alessandro Maggi, *Thea Rossman*, Nikita Tyunyayev, Tom Barbette<br>
