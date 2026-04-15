@@ -18,7 +18,7 @@ What traffic remains unencrypted, and can we build systems that measure this in 
 
 ## Publications <a id="publications"></a>
 
-<small><sup>\*</sup>Indicates co-first authorship</small>
+<small><sup>\*</sup>Indicates equal contribution</small>
 <small><sup>&dagger;</sup>Indicates mentee</small>
 
 
