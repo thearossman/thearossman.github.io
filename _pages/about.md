@@ -11,11 +11,6 @@ I am a second-year PhD student at Stanford University advised by [Zakir Durumeri
 
 I am broadly interested in building practical systems that help operators, researchers, and end-users understand, in order to strengthen, modern networks. I care about the Internet (L3-L7) as it impacts real people. Before starting my PhD, I worked on hypervisor networking at VMWare (Broadcom) and completed my M.S. at Stanford, also advised by Zakir Durumeric.
 
-*I’m actively looking for a next project!* Some initial questions I’m thinking about:
-How can we efficiently track long-term traffic patterns and changes on high-volume networks, including application-layer semantics?
-What can network data tell us about system and infrastructure dependencies, and what can we automate?
-What traffic remains unencrypted, and can we build systems that measure this in practice?
-
 ## Publications <a id="publications"></a>
 
 <small><sup>\*</sup>Indicates equal contribution</small>
@@ -40,9 +35,9 @@ Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES) 2022<
 Gina Yuan<sup>\*</sup>, *Thea Rossman*<sup>\*</sup>, Keith Winstein<br>
 Conference on Emerging Networking EXperiments and Technologies (CoNEXT) 2026 (*To Appear*)<br>
 
-**KaleidoLens: A Differential Private Framework for High-Speed Passive Network Measurements**<br>
+**\[Title TBD\] High-Speed Traffic Analysis with Differential Privacy**<br>
 Alessandro Maggi, *Thea Rossman*, Nikita Tyunyayev, Tom Barbette<br>
-In submission<br>
+In progress<br>
 
 **\[Patent\] Health-Aware Packet Forwarding**<br>
 Patent pending (Broadcom Inc.)<br>
