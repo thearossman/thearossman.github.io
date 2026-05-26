@@ -31,7 +31,7 @@ Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES) 2022<
 
 ### *Works In Progress*
 
-**[In-Network Retransmissions for Encrypted Transport Protocols](../files/packrat.pdf)**<br>
+**[In-Network Retransmissions for Encrypted Transport Protocols](../files/sidekick-downloads.pdf)**<br>
 Gina Yuan<sup>\*</sup>, *Thea Rossman*<sup>\*</sup>, Keith Winstein<br>
 Conference on Emerging Networking EXperiments and Technologies (CoNEXT) 2026 (*To Appear*)<br>
 
