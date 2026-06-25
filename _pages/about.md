@@ -16,6 +16,9 @@ I am broadly interested in building practical systems that help operators, resea
 <small><sup>\*</sup>Indicates equal contribution</small>
 <small><sup>&dagger;</sup>Indicates mentee</small>
 
+[**In-Network Retransmissions for Encrypted Transport Protocols**](../files/sidekick-downloads.pdf)<br>
+Gina Yuan<sup>\*</sup>, *Thea Rossman*<sup>\*</sup>, Keith Winstein<br>
+Conference on Emerging Networking EXperiments and Technologies (CoNEXT) 2026 (*To Appear*)<br>
 
 [**Iris: Expressive Traffic Analysis for the Modern Internet**](../files/iris.pdf) \[[Talk](https://www.usenix.org/conference/nsdi26/presentation/rossman)\] <br>
 *Thea Rossman*, Diana Qing<sup>&dagger;</sup>, Gerry Wan, Zakir Durumeric<br>
@@ -30,10 +33,6 @@ Hudson Ayers, Evan Laufer, Paul Mure, Jaehyeon Park, Eduardo Rodelo, *Thea Rossm
 Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES) 2022<br>
 
 ### *Works In Progress*
-
-**[In-Network Retransmissions for Encrypted Transport Protocols](../files/sidekick-downloads.pdf)**<br>
-Gina Yuan<sup>\*</sup>, *Thea Rossman*<sup>\*</sup>, Keith Winstein<br>
-Conference on Emerging Networking EXperiments and Technologies (CoNEXT) 2026 (*To Appear*)<br>
 
 **\[Title TBD\] High-Speed Traffic Analysis with Differential Privacy**<br>
 Alessandro Maggi, *Thea Rossman*, Nikita Tyunyayev, Tom Barbette<br>
