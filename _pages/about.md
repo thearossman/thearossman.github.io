@@ -32,11 +32,6 @@ USENIX Annual Technical Conference (ATC) 2025<br>
 Hudson Ayers, Evan Laufer, Paul Mure, Jaehyeon Park, Eduardo Rodelo, *Thea Rossman*, Andrey Pronin, Philip Levis, Johnathan Van Why<br>
 Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES) 2022<br>
 
-### *Works In Progress*
-
-**\[Patent\] Health-Aware Packet Forwarding**<br>
-Patent pending (Broadcom Inc.)<br>
-
 
 ## Teaching <a id="teaching"></a>
 
@@ -51,3 +46,8 @@ Teaching Assistant (*Stanford University*):
 Section Leader (*Stanford University*):
 * [CS106A: Programming Methodology](https://web.stanford.edu/class/cs106a/), Spring--Summer 2020
 * [CS106B: Programming Abstractions](https://web.stanford.edu/class/cs106b/), Fall 2020
+
+## Misc. <a id="misc"></a>
+
+**\[Patent\] Health-aware overlay packet forwarding between tunnel endpoint (tep) groups**<br>
+Subin Cyriac Mathew, Kaiwei Fan, Chidambareswaran Raman, *Thea Rossman*, Shuomin Liu<br>
