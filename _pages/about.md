@@ -34,10 +34,6 @@ Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES) 2022<
 
 ### *Works In Progress*
 
-**\[Title TBD\] High-Speed Traffic Analysis with Differential Privacy**<br>
-Alessandro Maggi, *Thea Rossman*, Nikita Tyunyayev, Tom Barbette<br>
-In progress<br>
-
 **\[Patent\] Health-Aware Packet Forwarding**<br>
 Patent pending (Broadcom Inc.)<br>
 
