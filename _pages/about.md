@@ -9,7 +9,7 @@ redirect_from:
 
 I am a second-year PhD student at Stanford University advised by [Zakir Durumeric](https://zakird.com) in the [Empirical Security Research Group](https://esrg.stanford.edu). I have also had the privilege of working with [Keith Winstein](https://cs.stanford.edu/~keithw/).
 
-I am broadly interested in building practical systems that help operators, researchers, and end-users understand, in order to strengthen, modern networks. Recently, I've applied techniques from [compilers](../files/iris.pdf) to network observability. Before starting my PhD, I worked on hypervisor networking at VMWare and completed my M.S. at Stanford, also advised by Zakir Durumeric. I am grateful to be supported by an NDSEG Fellowship (2026-) and a Stanford School of Engineering Fellowship (2024-25).
+I am broadly interested in building practical systems that help operators, researchers, and end-users understand, in order to strengthen, modern networks. Recently, I've applied techniques from [compilers](../files/iris.pdf) to network observability. Before starting my PhD, I worked on hypervisor networking at VMWare and completed my M.S. at Stanford, also advised by Zakir Durumeric. I am grateful to be supported by an NDSEG Fellowship (2026-), a Stanford EDGE Fellowship (2024-2026), and a Stanford School of Engineering Fellowship (2024-25).
 
 ## Publications <a id="publications"></a>
 
