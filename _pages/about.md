@@ -52,5 +52,5 @@ Section Leader (*Stanford University*):
 
 ## Misc. <a id="misc"></a>
 
-**\[Patent\] Health-aware overlay packet forwarding between tunnel endpoint (tep) groups**<br>
+**\[Patent\] Health-aware overlay packet forwarding between tunnel endpoint (tep) groups**. Broadcom, Inc.<br>
 Subin Cyriac Mathew, Kaiwei Fan, Chidambareswaran Raman, *Thea Rossman*, Shuomin Liu<br>
